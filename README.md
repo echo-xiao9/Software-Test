@@ -1,6 +1,6 @@
 # Software-Test
 
-[课程Slides](https://github.com/echo-xiao9/Software-Test/releases/tag/Slides)
+[课程Slides and Ebook](https://github.com/echo-xiao9/Software-Test/releases/tag/Slides)
 
 ### 黑盒测试
 
